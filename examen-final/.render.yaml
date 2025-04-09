@@ -1,0 +1,8 @@
+yaml
+Copier
+Modifier
+services:
+  - type: web
+    name: portfolio
+    rootDir: ssite
+    staticPublishPath: .
